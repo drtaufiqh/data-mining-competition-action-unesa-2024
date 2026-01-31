@@ -158,4 +158,4 @@ Proyek ini digunakan untuk keperluan **Data Mining Competition ACTION UNESA 2024
 
 ---
 
-> _"Data lingkungan yang baik menghasilkan kebijakan yang lebih bai
+> _"Data lingkungan yang baik mmenghasilkan kebijakan yang lebih baik."
